@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>drone_follower</name>
+  <version>0.1.0</version>
+  <description>Drone follower with YOLO detection for ROS 2 Humble</description>
+  <maintainer email="example@example.com">aerospace_user</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+  <exec_depend>launch_ros</exec_depend>
+</package>
